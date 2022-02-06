@@ -1,2 +1,2 @@
-# Presentations.Common
+# Presentations.Bioinformatics
 Webslides presentations to learn about Bioinformatics.
